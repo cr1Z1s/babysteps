@@ -43,7 +43,7 @@ header {
 	background-image: url("images/waveBG.png");
 	background-repeat: no-repeat;
 	background-position: bottom;
-	background-size: 1280px;
+	background-size: /*1280px*/100%;
 
 	border-bottom-left-radius: 200%160px;
 	border-bottom-right-radius: 200%160px;
