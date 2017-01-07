@@ -1,0 +1,508 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"colr",
+				"color"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"Fon",
+				"font-weight"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"padi",
+				"padding"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"as",
+				"aside\tTag"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"pading",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "sscss",
+		"selected_items":
+		[
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"sste",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/yahia/Websites/Yahia/weather app/fonts/icomoon91559/demo.html",
+		"/Users/yahia/Desktop/template.html",
+		"/Users/yahia/Desktop/git/README.sublime-workspace",
+		"/Users/yahia/Downloads/yakyak-master/README.md",
+		"/Users/yahia/Library/Application Support/Sublime Text 3/Packages/User/Safari.sublime-build",
+		"/Users/yahia/Library/Application Support/Sublime Text 3/Packages/User/Chrome.sublime-build",
+		"/Users/yahia/Desktop/email-blueprints-master/modular-template-patterns/modular-template-patterns.html",
+		"/Users/yahia/Websites/Yahia/Finished projects/Layla's html email/tables.html",
+		"/Users/yahia/Websites/Yahia/pocket hit replicate/css.css",
+		"/Users/yahia/Desktop/gmail.html",
+		"/Users/yahia/Desktop/sample-template/template-widgets.html",
+		"/Users/yahia/Desktop/git/email.html",
+		"/Users/yahia/Websites/Yahia/pocket hit replicate/pocket-replicate.html",
+		"/Users/yahia/Desktop/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/Users/yahia/Websites/Yahia/example-email.html",
+		"/Users/yahia/Websites/Yahia/Layla's html email/index.html",
+		"/Users/yahia/Websites/Yahia/Layla's html email/inline.html",
+		"/Users/yahia/Websites/Yahia/Layla's html email/tables.html",
+		"/Users/yahia/Websites/Yahia/Layla's html email/Images/logo-header.png",
+		"/Users/yahia/Websites/Yahia/Layla's html email/index-inlined.html",
+		"/Users/yahia/Websites/Yahia/Layla's html email/fiverr.html",
+		"/Users/yahia/Desktop/index-inlined.html",
+		"/Users/yahia/Websites/Yahia/test.html",
+		"/Users/yahia/Websites/Yahia/email001.html",
+		"/Users/yahia/Websites/Yahia/email1.html",
+		"/Users/yahia/Websites/Yahia/index.html",
+		"/Users/yahia/Websites/Yahia/untitled",
+		"/Users/yahia/Desktop/style.css",
+		"/Users/yahia/Desktop/font.html",
+		"/Users/yahia/Websites/Yahia/Tutorial Hall/index.html",
+		"/Users/yahia/Websites/Yahia/Notify/idex.html",
+		"/Users/yahia/Websites/Yahia/Notify/style.css",
+		"/Users/yahia/Websites/Yahia/Tuts+ Tutorial/css/style.css",
+		"/Users/yahia/Websites/Yahia/Notify/notify.html",
+		"/Users/yahia/Websites/Yahia/Tuts+ Tutorial/index.html",
+		"/Users/yahia/Websites/Yahia/Tuts+ Tutorial/css/text.css",
+		"/Users/yahia/Websites/Yahia/Tuts+ Tutorial/Css/960.css",
+		"/Users/yahia/Websites/Yahia/Tuts+ Tutorial/Css/style.css",
+		"/Users/yahia/Desktop/untitled.html",
+		"/Users/yahia/Websites/Yahia/Tuts+ Tutorial/style.css",
+		"/Users/yahia/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/yahia/Websites/ThemeClique/vuze-html/style.css",
+		"/Users/yahia/Websites/ThemeClique/vuze-html/StandardPage.html",
+		"/Users/yahia/Websites/ThemeClique/vuze-html/widgets.html",
+		"/Users/yahia/Websites/ThemeClique/vuze-html/widgets_Dark.html",
+		"/Users/yahia/Websites/ThemeClique/vuze-html/widgets_light.html",
+		"/Users/yahia/Websites/ThemeClique/vuze-html/wp_widget.html",
+		"/Users/yahia/Websites/ThemeClique/vuze-html/home_sidebar.html",
+		"/Users/yahia/Websites/ThemeClique/vuze-html/home_sidebar_left.html",
+		"/Users/yahia/Websites/ThemeClique/vuze-html/home.html",
+		"/Users/yahia/Websites/ThemeClique/vuze-html/js/theme.js",
+		"/Users/yahia/Websites/ThemeClique/vuze-html/theme.js",
+		"/Users/yahia/Websites/ThemeClique/vuze-html/test.html",
+		"/Users/yahia/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/yahia/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"table--wrapper",
+			"iphone",
+			"5px",
+			"20px",
+			"important",
+			"col-md-4",
+			"col-md",
+			"min-width",
+			"inscrire",
+			"color",
+			".promo\t\t\t",
+			".promo\t\t\t\t",
+			"span",
+			"div",
+			"min-width",
+			"cell",
+			"<td>\n\t\t\t\t\t\t\t\t\t\t<a href=\"\">\n\t\t\t\t\t\t\t\t\t\t\t<img src=\"\" alt=\"\" />\n\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t\t\t",
+			"cell",
+			"background",
+			" id",
+			"id",
+			"closer",
+			"text-align",
+			".tos",
+			"tos",
+			"social-",
+			"social links",
+			"gpuls",
+			"<a href=\"\" class=\"social-link\">\n\t\t\t\t\t<img src=\"\" alt=\"\" />\n\t\t\t\t</a>",
+			"\t\n",
+			"italic",
+			"raleway",
+			"html",
+			"button",
+			"position",
+			"grid_12",
+			"grid_3",
+			"screenshot",
+			"screneshot.png",
+			"screneshot",
+			"=\"\"><",
+			"about",
+			"ß◊©≈‹≤qsdqs€ôπœîºÚ†®êÂæ‡Ò∂ƒﬁÌÏÈ¬µÙ",
+			"    {",
+			"•ë“‘",
+			"social",
+			"our blog",
+			"blog img",
+			"search",
+			"videos",
+			"dark",
+			"widget",
+			"li:last-child",
+			"kate rose",
+			"recent_comments",
+			"widget-title",
+			"widget_categories",
+			"badge-white",
+			"margin-left: 9px;",
+			"widget-title",
+			".widget-title",
+			"widget-tag",
+			"info",
+			"title",
+			"meta",
+			"widget-tag",
+			"blog-meta",
+			"widget_light",
+			"more",
+			"sidebar",
+			"border-radius: 4px",
+			"promoted",
+			"social",
+			"widget_pages",
+			"cat",
+			"categories",
+			"archives",
+			"widget_pages",
+			"pages",
+			"                            <",
+			"more",
+			"li ul",
+			"color: #323438;",
+			"border-bottom",
+			"social",
+			"last-child",
+			"archive-month",
+			"months",
+			"hover",
+			"sidebar",
+			"widget-secondary",
+			"}\n",
+			";\n",
+			"widget-title",
+			"text-overflow",
+			"span",
+			"side-video",
+			"thumb",
+			"category",
+			"main-wrapper",
+			"badge",
+			"#E62828",
+			"archive-year",
+			"list-group-item",
+			"widget-title",
+			"nav ",
+			"user-btn",
+			"usr-btn",
+			"search",
+			"thumbnail",
+			"filter",
+			"#main"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Safari.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"them",
+				"js/theme.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
