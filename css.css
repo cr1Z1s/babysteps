@@ -5,11 +5,8 @@
 body {
 	margin: 0;
 	font-family: 'Ubuntu';
-	background: repeating-linear-gradient(90deg,
-		#fff 0px,
-		#fff 116px,
-		#ededf6 116px,
-		#ededf6 117px);
+	background: -webkit-repeating-linear-gradient(left,#fff 0px,#fff 116px,#ededf6 116px,#ededf6 117px);
+    background: repeating-linear-gradient(90deg,#fff 0px,#fff 116px,#ededf6 116px,#ededf6 117px);
 }
 ul {
 	list-style: none;
